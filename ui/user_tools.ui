@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>607</width>
+    <height>358</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Từ điển Lịch sử Việt Nam</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: #dfc7a7;</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QStackedWidget" name="stackedWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>0</y>
+      <width>601</width>
+      <height>331</height>
+     </rect>
+    </property>
+    <property name="currentIndex">
+     <number>2</number>
+    </property>
+    <widget class="QWidget" name="page">
+     <widget class="QLabel" name="label">
+      <property name="geometry">
+       <rect>
+        <x>200</x>
+        <y>30</y>
+        <width>201</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">font-size: 20px;
+</string>
+      </property>
+      <property name="text">
+       <string>Forgot your password?</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="page_3"/>
+    <widget class="QWidget" name="page_2">
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QLabel" name="ut_title">
+        <property name="styleSheet">
+         <string notr="true">font-size: 20px;
+font-weight: bold;
+color: black;</string>
+        </property>
+        <property name="text">
+         <string>Đổi / Quên mật khẩu</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <layout class="QFormLayout" name="formLayout">
+        <item row="0" column="0">
+         <widget class="QLabel" name="ut_label_username">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+          <property name="text">
+           <string>Username</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QLineEdit" name="ut_username">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QLabel" name="ut_label_email">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+          <property name="text">
+           <string>Email</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QLineEdit" name="ut_email">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QLabel" name="ut_label_old">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+          <property name="text">
+           <string>Mật khẩu hiện tại (bỏ trống nếu quên)</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QLineEdit" name="ut_old_password">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+          <property name="echoMode">
+           <enum>QLineEdit::Password</enum>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="0">
+         <widget class="QLabel" name="ut_label_new">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+          <property name="text">
+           <string>Mật khẩu mới</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QLineEdit" name="ut_new_password">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+          <property name="echoMode">
+           <enum>QLineEdit::Password</enum>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="0">
+         <widget class="QLabel" name="ut_label_confirm">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+          <property name="text">
+           <string>Xác nhận mật khẩu</string>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="1">
+         <widget class="QLineEdit" name="ut_confirm_password">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+          <property name="echoMode">
+           <enum>QLineEdit::Password</enum>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <widget class="QLabel" name="ut_status">
+        <property name="styleSheet">
+         <string notr="true">color: #5d4037;</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout">
+        <item>
+         <spacer name="horizontalSpacer">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+        <item>
+         <widget class="QPushButton" name="ut_save_password">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+          <property name="text">
+           <string>Lưu</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="ut_close">
+          <property name="styleSheet">
+           <string notr="true">color: black;</string>
+          </property>
+          <property name="text">
+           <string>Đóng</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="horizontalSpacer_2">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>607</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

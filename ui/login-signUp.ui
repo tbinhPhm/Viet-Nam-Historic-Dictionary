@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>868</width>
+    <height>634</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>868</width>
+    <height>634</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1000</width>
+    <height>1000</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Từ điển Lịch sử Việt Nam</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: #dfc7a7;</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout_11">
+    <item>
+     <widget class="QLabel" name="label_11">
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>580</height>
+       </size>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>../img/TuDienLichSu.png</pixmap>
+      </property>
+      <property name="scaledContents">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_5">
+      <property name="maximumSize">
+       <size>
+        <width>411</width>
+        <height>561</height>
+       </size>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>../img/ChatGPT Image 19_26_12 16 thg 3, 2026.png</pixmap>
+      </property>
+      <property name="scaledContents">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QStackedWidget" name="stackedWidget">
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="page">
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <item>
+         <widget class="QWidget" name="widget" native="true">
+          <property name="styleSheet">
+           <string notr="true">background-color: #cebaa0;</string>
+          </property>
+          <layout class="QHBoxLayout" name="horizontalLayout_6">
+           <item>
+            <layout class="QVBoxLayout" name="verticalLayout">
+             <item>
+              <widget class="QLabel" name="label">
+               <property name="maximumSize">
+                <size>
+                 <width>16777215</width>
+                 <height>120</height>
+                </size>
+               </property>
+               <property name="font">
+                <font>
+                 <family>Times New Roman</family>
+                 <pointsize>-1</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">color: black;font-size: 35px;
+font-weight: bold;
+qproperty-alignment: AlignCenter;
+font-family: &quot;Times New Roman&quot;</string>
+               </property>
+               <property name="text">
+                <string>Chào mừng trở lại!</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout">
+               <item>
+                <spacer name="horizontalSpacer_18">
+                 <property name="orientation">
+                  <enum>Qt::Horizontal</enum>
+                 </property>
+                 <property name="sizeHint" stdset="0">
+                  <size>
+                   <width>40</width>
+                   <height>20</height>
+                  </size>
+                 </property>
+                </spacer>
+               </item>
+               <item>
+                <widget class="QLabel" name="label_2">
+                 <property name="minimumSize">
+                  <size>
+                   <width>123</width>
+                   <height>100</height>
+                  </size>
+                 </property>
+                 <property name="maximumSize">
+                  <size>
+                   <width>123</width>
+                   <height>100</height>
+                  </size>
+                 </property>
+                 <property name="font">
+                  <font>
+                   <family>Times New Roman</family>
+                   <pointsize>-1</pointsize>
+                   <weight>75</weight>
+                   <bold>true</bold>
+                  </font>
+                 </property>
+                 <property name="styleSheet">
+                  <string notr="true">color: black;font-size: 18px;
+font-weight: bold;
+font-family: &quot;Times New Roman&quot;</string>
+                 </property>
+                 <property name="text">
+                  <string>Tên người dùng</string>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEdit_login_username">
+                 <property name="minimumSize">
+                  <size>
+                   <width>193</width>
+                   <height>28</height>
+                  </size>
+                 </property>
+                 <property name="maximumSize">
+                  <size>
+                   <width>193</width>
+                   <height>28</height>
+                  </size>
+                 </property>
+                 <property name="styleSheet">
+                  <string notr="true">color: black;font-size: 18px;
+font-weight: bold;</string>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <spacer name="horizontalSpacer_4">
+                 <property name="orientation">
+                  <enum>Qt::Horizontal</enum>
+                 </property>
+                 <property name="sizeHint" stdset="0">
+                  <size>
+                   <width>40</width>
+                   <height>20</height>
+                  </size>
+                 </property>
+                </spacer>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_2">
+               <item>
+                <spacer name="horizontalSpacer_5">
+                 <property name="orientation">
+                  <enum>Qt::Horizontal</enum>
+                 </property>
+                 <property name="sizeHint" stdset="0">
+                  <size>
+                   <width>20</width>
+                   <height>20</height>
+                  </size>
+                 </property>
+                </spacer>
+               </item>
+               <item>
+                <widget class="QLabel" name="label_3">
+                 <property name="minimumSize">
+                  <size>
+                   <width>90</width>
+                   <height>101</height>
+                  </size>
+                 </property>
+                 <property name="maximumSize">
+                  <size>
+                   <width>90</width>
+                   <height>101</height>
+                  </size>
+                 </property>
+                 <property name="font">
+                  <font>
+                   <family>Times New Roman</family>
+                   <pointsize>-1</pointsize>
+                   <weight>75</weight>
+                   <bold>true</bold>
+                  </font>
+                 </property>
+                 <property name="styleSheet">
+                  <string notr="true">color: black;font-size: 18px;
+font-weight: bold;
+font-family: &quot;Times New Roman&quot;</string>
+                 </property>
+                 <property name="text">
+                  <string>Mật khẩu</string>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEdit_login_password">
+                 <property name="minimumSize">
+                  <size>
+                   <width>224</width>
+                   <height>28</height>
+                  </size>
+                 </property>
+                 <property name="maximumSize">
+                  <size>
+                   <width>224</width>
+                   <height>28</height>
+                  </size>
+                 </property>
+                 <property name="styleSheet">
+                  <string notr="true">color: black;font-size: 18px;
+font-weight: bold;</string>
+                 </property>
+                 <property name="echoMode">
+                  <enum>QLineEdit::Password</enum>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <spacer name="horizontalSpacer_6">
+                 <property name="orientation">
+                  <enum>Qt::Horizontal</enum>
+                 </property>
+                 <property name="sizeHint" stdset="0">
+                  <size>
+                   <width>20</width>
+                   <height>20</height>
+                  </size>
+                 </property>
+                </spacer>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_5">
+               <item>
+                <spacer name="horizontalSpacer">
+                 <property name="orientation">
+                  <enum>Qt::Horizontal</enum>
+                 </property>
+                 <property name="sizeType">
+                  <enum>QSizePolicy::Fixed</enum>
+                 </property>
+                 <property name="sizeHint" stdset="0">
+                  <size>
+                   <width>120</width>
+                   <height>20</height>
+                  </size>
+                 </property>
+                </spacer>
+               </item>
+               <item>
+                <widget class="QPushButton" name="pushButton_login1">
+                 <property name="font">
+                  <font>
+                   <family>Times New Roman</family>
+                   <pointsize>-1</pointsize>
+                   <weight>75</weight>
+                   <bold>true</bold>
+                  </font>
+                 </property>
+                 <property name="styleSheet">
+                  <string notr="true">QPushButton {
+    background-color: #8B6F47;      /* nâu ấm */
+    color: white;
+    border-radius: 6px;
+    padding: 8px 20px;
+    font-weight: bold;
+    font-size: 16px;
+font-family: &quot;Times New Roman&quot;
+}
+
+QPushButton:hover {
+    background-color: #A07D52;      /* sáng hơn khi hover */
+}
+
+QPushButton:pressed {
+    background-color: #6F5737;      /* đậm hơn khi bấm */
+}</string>
+                 </property>
+                 <property name="text">
+                  <string>Đăng nhập</string>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <spacer name="horizontalSpacer_2">
+                 <property name="orientation">
+                  <enum>Qt::Horizontal</enum>
+                 </property>
+                 <property name="sizeType">
+                  <enum>QSizePolicy::Fixed</enum>
+                 </property>
+                 <property name="sizeHint" stdset="0">
+                  <size>
+                   <width>120</width>
+                   <height>20</height>
+                  </size>
+                 </property>
+                </spacer>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_3">
+               <item>
+                <spacer name="horizontalSpacer_7">
+                 <property name="orientation">
+                  <enum>Qt::Horizontal</enum>
+                 </property>
+                 <property name="sizeType">
+                  <enum>QSizePolicy::Fixed</enum>
+                 </property>
+                 <property name="sizeHint" stdset="0">
+                  <size>
+                   <width>30</width>
+                   <height>20</height>
+                  </size>
+                 </property>
+                </spacer>
+               </item>
+               <item>
+                <widget class="QLabel" name="label_4">
+                 <property name="minimumSize">
+                  <size>
+                   <width>140</width>
+                   <height>101</height>
+                  </size>
+                 </property>
+                 <property name="maximumSize">
+                  <size>
+                   <width>140</width>
+                   <height>101</height>
+                  </size>
+                 </property>
+                 <property name="font">
+                  <font>
+                   <family>Times New Roman</family>
+                   <pointsize>-1</pointsize>
+                   <weight>75</weight>
+                   <bold>true</bold>
+                  </font>
+                 </property>
+                 <property name="styleSheet">
+                  <string notr="true">color: black;font-size: 14px;
+font-weight: bold;
+font-family: &quot;Times New Roman&quot;</string>
+                 </property>
+                 <property name="text">
+                  <string>Cần tạo tài khoản?</string>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QPushButton" name="pushButton_signUp1">
+                 <property name="maximumSize">
+                  <size>
+                   <width>140</width>
+                   <height>16777215</height>
+                  </size>
+                 </property>
+                 <property name="font">
+                  <font>
+                   <family>Times New Roman</family>
+                   <pointsize>-1</pointsize>
+                   <weight>75</weight>
+                   <bold>true</bold>
+                  </font>
+                 </property>
+                 <property name="styleSheet">
+                  <string notr="true">QPushButton {
+    background-color: #8B6F47;      /* nâu ấm */
+    color: white;
+    border-radius: 6px;
+    padding: 8px 14px;
+    font-weight: bold;
+    font-size: 16px;
+font-family: &quot;Times New Roman&quot;
+}
+
+QPushButton:hover {
+    background-color: #A07D52;      /* sáng hơn khi hover */
+}
+
+QPushButton:pressed {
+    background-color: #6F5737;      /* đậm hơn khi bấm */
+}</string>
+                 </property>
+                 <property name="text">
+                  <string>Đăng kí</string>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <spacer name="horizontalSpacer_8">
+                 <property name="orientation">
+                  <enum>Qt::Horizontal</enum>
+                 </property>
+                 <property name="sizeType">
+                  <enum>QSizePolicy::Fixed</enum>
+                 </property>
+                 <property name="sizeHint" stdset="0">
+                  <size>
+                   <width>30</width>
+                   <height>20</height>
+                  </size>
+                 </property>
+                </spacer>
+               </item>
+              </layout>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_2">
+       <layout class="QVBoxLayout" name="verticalLayout_4">
+        <item>
+         <widget class="QWidget" name="widget_2" native="true">
+          <property name="styleSheet">
+           <string notr="true">background-color: #cebaa0;</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_3">
+           <item>
+            <widget class="QLabel" name="label_8">
+             <property name="maximumSize">
+              <size>
+               <width>16777215</width>
+               <height>100</height>
+              </size>
+             </property>
+             <property name="font">
+              <font>
+               <family>Times New Roman</family>
+               <pointsize>-1</pointsize>
+               <weight>75</weight>
+               <bold>true</bold>
+              </font>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">color: black;font-weight: bold;
+font-size: 28px;
+qproperty-alignment: AlignCenter;
+color: black;
+font-family: &quot;Times New Roman&quot;</string>
+             </property>
+             <property name="text">
+              <string>Đăng kí tài khoản</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <spacer name="verticalSpacer">
+             <property name="orientation">
+              <enum>Qt::Vertical</enum>
+             </property>
+             <property name="sizeType">
+              <enum>QSizePolicy::Fixed</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>20</width>
+               <height>20</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_4">
+             <item>
+              <spacer name="horizontalSpacer_13">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeType">
+                <enum>QSizePolicy::Fixed</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>10</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_6">
+               <property name="font">
+                <font>
+                 <family>Times New Roman</family>
+                 <pointsize>-1</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">color: black;font-size: 18px;
+font-weight: bold;
+color: black;
+font-family: &quot;Times New Roman&quot;</string>
+               </property>
+               <property name="text">
+                <string>Tên người dùng</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="lineEdit_signUp_username">
+               <property name="styleSheet">
+                <string notr="true">color: black;
+font-size: 18px;
+font-weight: bold;</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="horizontalSpacer_14">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>25</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_email">
+             <item>
+              <spacer name="horizontalSpacer_email_left">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeType">
+                <enum>QSizePolicy::Fixed</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>40</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_email">
+               <property name="font">
+                <font>
+                 <family>Times New Roman</family>
+                 <pointsize>-1</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">color: black;font-size: 18px;
+	font-weight: bold;color: black;
+font-family: &quot;Times New Roman&quot;</string>
+               </property>
+               <property name="text">
+                <string>Email</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="lineEdit_signUp_email">
+               <property name="styleSheet">
+                <string notr="true">color: black;font-size: 18px;
+	font-weight: bold;</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="horizontalSpacer_email_right">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>35</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_7">
+             <item>
+              <spacer name="horizontalSpacer_15">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeType">
+                <enum>QSizePolicy::Fixed</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>30</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_9">
+               <property name="font">
+                <font>
+                 <family>Times New Roman</family>
+                 <pointsize>-1</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">color: black;font-size: 18px;
+font-weight: bold;color: black;
+font-family: &quot;Times New Roman&quot;</string>
+               </property>
+               <property name="text">
+                <string>Mật khẩu</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="lineEdit_signUp_password">
+               <property name="styleSheet">
+                <string notr="true">color: black;font-size: 18px;
+font-weight: bold;</string>
+               </property>
+               <property name="echoMode">
+                <enum>QLineEdit::Password</enum>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="horizontalSpacer_16">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>40</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_8">
+             <item>
+              <widget class="QLabel" name="label_7">
+               <property name="font">
+                <font>
+                 <family>Times New Roman</family>
+                 <pointsize>-1</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">color: black;color: black;font-size: 15px;
+font-weight: bold;
+font-family: &quot;Times New Roman&quot;</string>
+               </property>
+               <property name="text">
+                <string>Xác nhận mật khẩu</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="lineEdit_signUp_confirmedPassword">
+               <property name="styleSheet">
+                <string notr="true">color: black;font-size: 18px;
+font-weight: bold;</string>
+               </property>
+               <property name="echoMode">
+                <enum>QLineEdit::Password</enum>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="horizontalSpacer_17">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>5</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_10">
+             <item>
+              <spacer name="horizontalSpacer_11">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>40</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QPushButton" name="pushButton_signUp2">
+               <property name="font">
+                <font>
+                 <family>Times New Roman</family>
+                 <pointsize>-1</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">QPushButton {
+    background-color: #8B6F47;      /* nâu ấm */
+    color: white;
+    border-radius: 6px;
+    padding: 8px 20px;
+    font-weight: bold;
+    font-size: 16px;
+font-family: &quot;Times New Roman&quot;;
+}
+
+QPushButton:hover {
+    background-color: #A07D52;      /* sáng hơn khi hover */
+}
+
+QPushButton:pressed {
+    background-color: #6F5737;      /* đậm hơn khi bấm */
+}</string>
+               </property>
+               <property name="text">
+                <string>Đăng kí</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="horizontalSpacer_12">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>40</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_9">
+             <item>
+              <spacer name="horizontalSpacer_9">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>40</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_10">
+               <property name="font">
+                <font>
+                 <family>Times New Roman</family>
+                 <pointsize>-1</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">color: black;color: black;font-size: 14px;
+font-weight: bold;
+font-family: &quot;Times New Roman&quot;</string>
+               </property>
+               <property name="text">
+                <string>Đã có tài khoản?</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="pushButton_login2">
+               <property name="font">
+                <font>
+                 <family>Times New Roman</family>
+                 <pointsize>-1</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">QPushButton {
+    background-color: #8B6F47;      /* nâu ấm */
+    color: white;
+    border-radius: 6px;
+    padding: 8px 20px;
+    font-weight: bold;
+    font-size: 16px;
+font-family: &quot;Times New Roman&quot;;
+}
+
+QPushButton:hover {
+    background-color: #A07D52;      /* sáng hơn khi hover */
+}
+
+QPushButton:pressed {
+    background-color: #6F5737;      /* đậm hơn khi bấm */
+}</string>
+               </property>
+               <property name="text">
+                <string>Đăng nhập</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="horizontalSpacer_10">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>40</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>868</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

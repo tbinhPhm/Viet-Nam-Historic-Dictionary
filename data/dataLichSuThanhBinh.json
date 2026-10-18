@@ -1,0 +1,934 @@
+{
+    "su_kien": [
+        {
+            "tieu_de": "Ra đời nước Văn Lang",
+            "mo_ta": "Nhà nước sơ khai đầu tiên của người Việt cổ, do các vua Hùng đứng đầu. Kinh tế chủ yếu là trồng lúa nước, xã hội đã có sự phân hóa giai cấp bước đầu.",
+            "nam_bat_dau": -2879,
+            "nam_ket_thuc": -258
+        },
+        {
+            "tieu_de": "Thành lập nước Âu Lạc",
+            "mo_ta": "Thục Phán hợp nhất Âu Việt và Lạc Việt, xây thành Cổ Loa. Quân sự phát triển với nỏ liên châu (truyền thuyết nỏ thần).",
+            "nam_bat_dau": -257,
+            "nam_ket_thuc": -179
+        },
+        {
+            "tieu_de": "Âu Lạc bị Triệu Đà xâm chiếm",
+            "mo_ta": "Triệu Đà dùng mưu Trọng Thủy - Mỵ Châu kết hợp quân sự đánh bại An Dương Vương. Âu Lạc mất độc lập.",
+            "nam_bat_dau": -179,
+            "nam_ket_thuc": -179
+        },
+        {
+            "tieu_de": "Khởi nghĩa Chu Diên",
+            "mo_ta": "Thi Sách cùng vợ là Trưng Trắc kết hào kiệt các vùng chuẩn bị nổi dậy chống ách đô hộ của Tô Định trước khi ông bị sát hại.",
+            "nam_bat_dau": 39,
+            "nam_ket_thuc": 40
+        },
+        {
+            "tieu_de": "Khởi nghĩa Hai Bà Trưng",
+            "mo_ta": "Hai Bà Trưng nổi dậy chống Đông Hán, nhanh chóng chiếm 65 thành. Lập chính quyền tự chủ nhưng bị đàn áp sau 3 năm.",
+            "nam_bat_dau": 40,
+            "nam_ket_thuc": 43
+        },
+        {
+            "tieu_de": "Khởi nghĩa Lương Long",
+            "mo_ta": "Lương Long lãnh đạo nhân dân khởi nghĩa chống lại ách áp bức của nhà Hán tại vùng Giao Chỉ, làm rung chuyển bộ máy cai trị của đối phương.",
+            "nam_bat_dau": 178,
+            "nam_ket_thuc": 181
+        },
+        {
+            "tieu_de": "Khởi nghĩa Bà Triệu",
+            "mo_ta": "Khởi nghĩa chống nhà Ngô tại Thanh Hóa. Dù thất bại nhưng thể hiện tinh thần quật cường.",
+            "nam_bat_dau": 248,
+            "nam_ket_thuc": 248
+        },
+        {
+            "tieu_de": "Lý Bí lập nước Vạn Xuân",
+            "mo_ta": "Đánh bại nhà Lương, xưng đế. Nhà nước độc lập tồn tại gần 60 năm trước khi bị nhà Tùy xâm chiếm.",
+            "nam_bat_dau": 544,
+            "nam_ket_thuc": 602
+        },
+        {
+            "tieu_de": "Cuộc chiến đấu của Triệu Quang Phục",
+            "mo_ta": "Triệu Quang Phục (Triệu Việt Vương) chọn đầm Dạ Trạch làm căn cứ kháng chiến du kích, đánh đuổi quân Lương, giữ vững nền độc lập cho Vạn Xuân.",
+            "nam_bat_dau": 548,
+            "nam_ket_thuc": 571
+        },
+        {
+            "tieu_de": "Khởi nghĩa Lý Tự Tiên và Đinh Văn Tả",
+            "mo_ta": "Khởi nghĩa bùng nổ tại phủ Tống Bình chống lại chính sách siết chặt thuế khóa của quan đô hộ nhà Đường là Lưu Diên祐.",
+            "nam_bat_dau": 687,
+            "nam_ket_thuc": 687
+        },
+        {
+            "tieu_de": "Khởi nghĩa Mai Thúc Loan",
+            "mo_ta": "Mai Thúc Loan (Mai Hắc Đế) lãnh đạo nhân dân khởi nghĩa chống lại ách đô hộ tàn bạo của nhà Đường, giải phóng vùng đất rộng lớn Hoan Châu.",
+            "nam_bat_dau": 713,
+            "nam_ket_thuc": 722
+        },
+        {
+            "tieu_de": "Khởi nghĩa Phùng Hưng",
+            "mo_ta": "Phùng Hưng lãnh đạo cuộc đấu tranh vũ trang chống nhà Đường, chiếm thành Tống Bình, được nhân dân tôn xưng là Bố Cái Đại Vương.",
+            "nam_bat_dau": 776,
+            "nam_ket_thuc": 791
+        },
+        {
+            "tieu_de": "Khởi nghĩa Dương Thanh",
+            "mo_ta": "Dự Châu thứ sử Dương Thanh nổi dậy tiêu diệt quan đô hộ nhà Đường là Lý Tượng cổ, chiếm giữ thành Thăng Long trong vài năm.",
+            "nam_bat_dau": 819,
+            "nam_ket_thuc": 820
+        },
+        {
+            "tieu_de": "Họ Khúc giành quyền tự chủ",
+            "mo_ta": "Khúc Thừa Dụ tận dụng nhà Đường suy yếu, tự xưng Tiết độ sứ, đặt nền móng đầu tiên cho nền độc lập tự chủ bền vững của đất nước.",
+            "nam_bat_dau": 905,
+            "nam_ket_thuc": 907
+        },
+        {
+            "tieu_de": "Khúc Hạo cải cách đất nước",
+            "mo_ta": "Khúc Hạo nối nghiệp cha, thực hiện nhiều cải cách hành chính, tô thuế tiến bộ với phương châm 'Chính sự khoan dung, giản dị'.",
+            "nam_bat_dau": 907,
+            "nam_ket_thuc": 917
+        },
+        {
+            "tieu_de": "Dương Đình Nghệ đánh đuổi quân Nam Hán",
+            "mo_ta": "Dương Đình Nghệ tập hợp hào kiệt, đem quân từ Thanh Hóa ra Bắc đánh tan quân Nam Hán xâm lược, khôi phục quyền tự chủ.",
+            "nam_bat_dau": 931,
+            "nam_ket_thuc": 931
+        },
+        {
+            "tieu_de": "Chiến thắng Bạch Đằng của Ngô Quyền",
+            "mo_ta": "Ngô Quyền dùng chiến thuật cắm cọc gỗ dưới lòng sông, dụ quân Nam Hán vào lúc triều lên rồi phản công khi nước rút. Quân Nam Hán bị tiêu diệt gần như toàn bộ, tướng Hoằng Tháo tử trận. Kết thúc 1000 năm Bắc thuộc.",
+            "nam_bat_dau": 938,
+            "nam_ket_thuc": 938
+        },
+        {
+            "tieu_de": "Ngô Quyền xưng vương lập quốc",
+            "mo_ta": "Ngô Quyền lên ngôi, đóng đô ở Cổ Loa, thiết lập bộ máy triều đình mới, chính thức mở ra kỷ nguyên độc lập lâu dài của Việt Nam.",
+            "nam_bat_dau": 939,
+            "nam_ket_thuc": 944
+        },
+        {
+            "tieu_de": "Đinh Bộ Lĩnh thống nhất đất nước",
+            "mo_ta": "Dẹp loạn 12 sứ quân, lập nước Đại Cồ Việt, xây dựng nhà nước phong kiến trung ương tập quyền.",
+            "nam_bat_dau": 968,
+            "nam_ket_thuc": 968
+        },
+        {
+            "tieu_de": "Kháng chiến chống Tống lần 1",
+            "mo_ta": "Lê Hoàn chỉ huy đánh bại quân Tống năm 981. Sử dụng chiến thuật phòng thủ kết hợp phản công, bảo vệ nền độc lập.",
+            "nam_bat_dau": 981,
+            "nam_ket_thuc": 981
+        },
+        {
+            "tieu_de": "Lý Công Uẩn dời đô",
+            "mo_ta": "Dời đô từ Hoa Lư ra Thăng Long, tạo điều kiện phát triển lâu dài.",
+            "nam_bat_dau": 1010,
+            "nam_ket_thuc": 1010
+        },
+        {
+            "tieu_de": "Ban hành bộ luật Hình thư",
+            "mo_ta": "Vua Lý Thái Tông cho biên soạn và ban hành Hình thư, bộ luật văn bản đầu tiên mang tính chính thống của nước ta.",
+            "nam_bat_dau": 1042,
+            "nam_ket_thuc": 1042
+        },
+        {
+            "tieu_de": "Xây dựng Văn Miếu",
+            "mo_ta": "Vua Lý Thánh Tông cho xây dựng Văn Miếu tại Thăng Long để thờ các bậc thánh hiền và làm nơi học tập cho thái tử.",
+            "nam_bat_dau": 1070,
+            "nam_ket_thuc": 1070
+        },
+        {
+            "tieu_de": "Mở khoa thi Nho học đầu tiên",
+            "mo_ta": "Nhà Lý tổ chức khoa thi Tam trường (Minh kinh bác học) đầu tiên trong lịch sử để tuyển chọn nhân tài, Lê Văn Thịnh đỗ đầu.",
+            "nam_bat_dau": 1075,
+            "nam_ket_thuc": 1075
+        },
+        {
+            "tieu_de": "Kháng chiến chống Tống thời Lý",
+            "mo_ta": "Lý Thường Kiệt chủ động đánh trước vào Ung Châu, sau đó phòng thủ trên sông Như Nguyệt. Chiến thắng quan trọng, giữ vững độc lập.",
+            "nam_bat_dau": 1075,
+            "nam_ket_thuc": 1077
+        },
+        {
+            "tieu_de": "Thành lập Quốc Tử Giám",
+            "mo_ta": "Vua Lý Nhân Tông cho xây dựng Quốc Tử Giám kế bên Văn Miếu, được coi là trường đại học quốc gia đầu tiên tại Việt Nam.",
+            "nam_bat_dau": 1076,
+            "nam_ket_thuc": 1076
+        },
+        {
+            "tieu_de": "Thành lập nhà Trần",
+            "mo_ta": "Nhà Trần thay nhà Lý, tiếp tục củng cố đất nước.",
+            "nam_bat_dau": 1225,
+            "nam_ket_thuc": 1225
+        },
+        {
+            "tieu_de": "Ban hành bộ luật Quốc triều hình luật thời Trần",
+            "mo_ta": "Nhà Trần ban hành bộ luật mới nhằm củng cố pháp chế phong kiến tập quyền và khẳng định quyền sở hữu tư sản.",
+            "nam_bat_dau": 1230,
+            "nam_ket_thuc": 1230
+        },
+        {
+            "tieu_de": "Kháng chiến chống Nguyên lần 1",
+            "mo_ta": "Quân Trần chủ động rút lui chiến lược, sau đó phản công tại Đông Bộ Đầu. Quân Nguyên thất bại nặng nề.",
+            "nam_bat_dau": 1258,
+            "nam_ket_thuc": 1258
+        },
+        {
+            "tieu_de": "Hội nghị Diên Hồng",
+            "mo_ta": "Vua Trần Thánh Tông triệu tập các bậc phụ lão trong cả nước về kinh đô để trưng cầu dân ý, thể hiện quyết tâm đồng lòng kháng chiến chống quân Nguyên.",
+            "nam_bat_dau": 1284,
+            "nam_ket_thuc": 1284
+        },
+        {
+            "tieu_de": "Kháng chiến chống Nguyên lần 2",
+            "mo_ta": "Áp dụng chiến thuật 'vườn không nhà trống'. Quân Nguyên thiếu lương, bị phản công mạnh tại Chương Dương, Hàm Tử, Tây Kết và thất bại hoàn toàn.",
+            "nam_bat_dau": 1285,
+            "nam_ket_thuc": 1285
+        },
+        {
+            "tieu_de": "Chiến thắng Bạch Đằng lần 3",
+            "mo_ta": "Trần Hưng Đạo dùng lại chiến thuật cọc gỗ, tiêu diệt toàn bộ đoàn thuyền chiến và thuyền lương của quân Nguyên dưới sự chỉ huy của Ô Mã Nhi. Quân Nguyên rút lui hoàn toàn.",
+            "nam_bat_dau": 1288,
+            "nam_ket_thuc": 1288
+        },
+        {
+            "tieu_de": "Trần Nhân Tông sáng lập Thiền phái Trúc Lâm",
+            "mo_ta": "Sau khi nhường ngôi, thượng hoàng Trần Nhân Tông xuất gia tu hành tại núi Yên Tử, khai sinh dòng thiền mang đậm bản sắc văn hóa Việt.",
+            "nam_bat_dau": 1299,
+            "nam_ket_thuc": 1299
+        },
+        {
+            "tieu_de": "Chế tạo súng thần cơ",
+            "mo_ta": "Hồ Nguyên Trừng cải tiến và chế tạo thành công súng thần cơ (hỏa pháo cải tiến cải tiến kỹ thuật lớn) đạt uy lực quân sự vượt trội lúc bấy giờ.",
+            "nam_bat_dau": 1400,
+            "nam_ket_thuc": 1405
+        },
+        {
+            "tieu_de": "Nhà Hồ cải cách",
+            "mo_ta": "Hồ Quý Ly truất ngôi nhà Trần, lập ra nhà Hồ, thực hiện đổi tiền giấy, hạn điền, hạn nô nhưng chưa đạt hiệu quả đồng thuận toàn dân.",
+            "nam_bat_dau": 1400,
+            "nam_ket_thuc": 1407
+        },
+        {
+            "tieu_de": "Nhà Minh đô hộ",
+            "mo_ta": "Nhà Minh xâm lược nước ta, áp dụng chính sách đồng hóa tàn bạo, bóc lột tài nguyên thô bạo và đàn áp dã man các phong trào kháng chiến.",
+            "nam_bat_dau": 1407,
+            "nam_ket_thuc": 1427
+        },
+        {
+            "tieu_de": "Khởi nghĩa Lam Sơn",
+            "mo_ta": "Lê Lợi lãnh đạo khởi nghĩa chống quân Minh tại vùng núi Thanh Hóa, sử dụng chiến thuật du kích, đánh lâu dài xoay chuyển cục diện đất nước.",
+            "nam_bat_dau": 1418,
+            "nam_ket_thuc": 1427
+        },
+        {
+            "tieu_de": "Trận Chi Lăng - Xương Giang",
+            "mo_ta": "Quân Lam Sơn phục kích tiêu diệt toàn bộ viện binh nhà Minh do Liễu Thăng chỉ huy. Hơn 10 vạn quân Minh bị tiêu diệt hoặc bắt sống, buộc địch phải ký hòa ước rút quân.",
+            "nam_bat_dau": 1427,
+            "nam_ket_thuc": 1427
+        },
+        {
+            "tieu_de": "Nguyễn Trãi viết Bình Ngô Đại Cáo",
+            "mo_ta": "Thay lời Lê Lợi, Nguyễn Trãi viết bản tuyên ngôn độc lập thứ hai, tổng kết cuộc kháng chiến chống Minh thắng lợi hiển hách.",
+            "nam_bat_dau": 1428,
+            "nam_ket_thuc": 1428
+        },
+        {
+            "tieu_de": "Dựng bia Tiến sĩ đầu tiên tại Văn Miếu",
+            "mo_ta": "Vua Lê Thánh Tông ra lệnh dựng các tấm bia đá đầu tiên khắc tên các nhà khoa bảng đỗ đạt từ khoa thi 1442 nhằm vinh danh nhân tài.",
+            "nam_bat_dau": 1484,
+            "nam_ket_thuc": 1484
+        },
+        {
+            "tieu_de": "Nhà Lê sơ hưng thịnh",
+            "mo_ta": "Thời kỳ đỉnh cao dưới sự trị vì của vua Lê Thánh Tông, ban hành bộ luật Hồng Đức, mở rộng bờ cõi, phát triển mạnh văn hóa và kinh tế.",
+            "nam_bat_dau": 1460,
+            "nam_ket_thuc": 1497
+        },
+        {
+            "tieu_de": "Nam - Bắc triều",
+            "mo_ta": "Thời kỳ nội chiến chia cắt đất nước giữa nhà Mạc (Bắc triều) và nhà Lê trung hưng dưới sự phò tá của họ Trịnh (Nam triều).",
+            "nam_bat_dau": 1527,
+            "nam_ket_thuc": 1592
+        },
+        {
+            "tieu_de": "Nguyễn Hoàng vào Quảng Nam",
+            "mo_ta": "Nguyễn Hoàng vào trấn thủ Thuận Hóa, mở đầu cho công cuộc khẩn hoang, phát triển kinh tế và mở rộng bờ cõi về phía Nam của các chúa Nguyễn.",
+            "nam_bat_dau": 1558,
+            "nam_ket_thuc": 1558
+        },
+        {
+            "tieu_de": "Trịnh - Nguyễn phân tranh",
+            "mo_ta": "Xung đột vũ trang bùng nổ giữa hai tập đoàn phong kiến chúa Trịnh (Đàng Ngoài) và chúa Nguyễn (Đàng Trong), lấy sông Gianh làm giới tuyến chia cắt.",
+            "nam_bat_dau": 1627,
+            "nam_ket_thuc": 1777
+        },
+        {
+            "tieu_de": "Thành lập phủ Gia Định",
+            "mo_ta": "Nguyễn Hữu Cảnh vào kinh lý phía Nam, thiết lập hệ thống hành chính chính thức cho vùng đất Sài Gòn - Gia Định.",
+            "nam_bat_dau": 1698,
+            "nam_ket_thuc": 1698
+        },
+        {
+            "tieu_de": "Khởi nghĩa Tây Sơn",
+            "mo_ta": "Ba anh em Tây Sơn (Nhân, Nhạc, Huệ) nổi dậy lật đổ chúa Nguyễn ở Đàng Trong, sau đó diệt chúa Trịnh ở Đàng Ngoài, thống nhất đất nước.",
+            "nam_bat_dau": 1771,
+            "nam_ket_thuc": 1802
+        },
+        {
+            "tieu_de": "Chiến thắng Rạch Gầm - Xoài Mút",
+            "mo_ta": "Nguyễn Huệ phục kích tiêu diệt hoàn toàn 5 vạn quân xiêm xâm lược trên sông Tiền. Trận thủy chiến thần tốc, vang dội bảo vệ bờ cõi phía Nam.",
+            "nam_bat_dau": 1785,
+            "nam_ket_thuc": 1785
+        },
+        {
+            "tieu_de": "Chiến thắng Ngọc Hồi - Đống Đa",
+            "mo_ta": "Quang Trung hành quân thần tốc ra Bắc, đánh tan 29 vạn quân Thanh xâm lược vào dịp Tết Kỷ Dậu, giải phóng Thăng Long.",
+            "nam_bat_dau": 1789,
+            "nam_ket_thuc": 1789
+        },
+        {
+            "tieu_de": "Nhà Nguyễn thành lập",
+            "mo_ta": "Nguyễn Ánh lên ngôi hoàng đế (Gia Long), đóng đô ở Huế, hoàn thành thống nhất lãnh thổ từ Bắc chí Nam.",
+            "nam_bat_dau": 1802,
+            "nam_ket_thuc": 1945
+        },
+        {
+            "tieu_de": "Đổi tên nước thành Việt Nam",
+            "mo_ta": "Vua Gia Long chính thức chọn quốc hiệu nước ta là Việt Nam sau khi nhận tuyên phong từ triều đình nhà Thanh.",
+            "nam_bat_dau": 1804,
+            "nam_ket_thuc": 1804
+        },
+        {
+            "tieu_de": "Ban hành luật Gia Long",
+            "mo_ta": "Nhà Nguyễn ban hành Hoàng triều luật lệ (luật Gia Long), bộ luật chính thức áp dụng cho toàn quốc để củng cố bộ máy quân chủ chuyên chế.",
+            "nam_bat_dau": 1815,
+            "nam_ket_thuc": 1815
+        },
+        {
+            "tieu_de": "Cuộc cải cách hành chính của vua Minh Mạng",
+            "mo_ta": "Vua Minh Mạng xóa bỏ các đơn vị trấn, chia cả nước thành 30 tỉnh và 1 phủ Thừa Thiên, thống nhất hệ thống hành chính trung ương.",
+            "nam_bat_dau": 1831,
+            "nam_ket_thuc": 1832
+        },
+        {
+            "tieu_de": "Khởi nghĩa Lê Văn Khôi",
+            "mo_ta": "Lê Văn Khôi lãnh đạo binh lính nổi dậy chiếm thành Phiên An (Gia Định) chống lại triều đình Minh Mạng, kéo dài trong 2 năm.",
+            "nam_bat_dau": 1833,
+            "nam_ket_thuc": 1835
+        },
+        {
+            "tieu_de": "Đổi quốc hiệu thành Đại Nam",
+            "mo_ta": "Vua Minh Mạng quyết định đổi quốc hiệu nước ta từ Việt Nam thành Đại Nam nhằm khẳng định chủ quyền độc lập mạnh mẽ.",
+            "nam_bat_dau": 1839,
+            "nam_ket_thuc": 1839
+        },
+        {
+            "tieu_de": "Pháp xâm lược Việt Nam",
+            "mo_ta": "Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Đà Nẵng, mở đầu quá trình xâm lược và áp đặt chế độ thuộc địa.",
+            "nam_bat_dau": 1858,
+            "nam_ket_thuc": 1884
+        },
+        {
+            "tieu_de": "Khởi nghĩa Nguyễn Trung Trực",
+            "mo_ta": "Nguyễn Trung Trực lãnh đạo nghĩa quân đốt cháy tàu chiến Espérance (Hy Vọng) của Pháp trên sông Nhật Tảo, gây tiếng vang lớn.",
+            "nam_bat_dau": 1861,
+            "nam_ket_thuc": 1861
+        },
+        {
+            "tieu_de": "Ký kết Hiệp ước Nhâm Tuất",
+            "mo_ta": "Triều đình nhà Nguyễn ký hiệp ước nhượng 3 tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa) và đảo Côn Lôn cho Pháp.",
+            "nam_bat_dau": 1862,
+            "nam_ket_thuc": 1862
+        },
+        {
+            "tieu_de": "Tờ báo quốc ngữ đầu tiên Gia Định Báo xuất bản",
+            "mo_ta": "Gia Định Báo - tờ báo phát hành bằng chữ Quốc ngữ đầu tiên xuất hiện tại Sài Gòn, mở đầu nền báo chí hiện đại nước ta.",
+            "nam_bat_dau": 1865,
+            "nam_ket_thuc": 1865
+        },
+        {
+            "tieu_de": "Chiến thắng Cầu Giấy lần thứ nhất",
+            "mo_ta": "Quân cờ đen phối hợp quân triều đình phục kích tiêu diệt đại úy Pháp Francis Garnier tại Cầu Giấy (Hà Nội).",
+            "nam_bat_dau": 1873,
+            "nam_ket_thuc": 1873
+        },
+        {
+            "tieu_de": "Chiến thắng Cầu Giấy lần thứ hai",
+            "mo_ta": "Quân dân ta tiếp tục tiêu diệt sĩ quan chỉ huy cao cấp của Pháp là Henri Rivière cũng tại khu vực Cầu Giấy.",
+            "nam_bat_dau": 1883,
+            "nam_ket_thuc": 1883
+        },
+        {
+            "tieu_de": "Ký kết Hiệp ước Patenôtre",
+            "mo_ta": "Triều đình nhà Nguyễn ký hiệp ước với Pháp, chính thức thừa nhận nền bảo hộ của Pháp trên toàn bộ lãnh thổ Việt Nam.",
+            "nam_bat_dau": 1884,
+            "nam_ket_thuc": 1884
+        },
+        {
+            "tieu_de": "Phong trào Cần Vương bùng nổ",
+            "mo_ta": "Sau sự kiện kinh thành Huế, Thượng thư Bộ Binh Tôn Thất Thuyết hạ chiếu Cần Vương nhân danh vua Hàm Nghi, kêu gọi văn thân sĩ phu giúp vua cứu nước.",
+            "nam_bat_dau": 1885,
+            "nam_ket_thuc": 1896
+        },
+        {
+            "tieu_de": "Khởi nghĩa Ba Đình",
+            "mo_ta": "Cuộc khởi nghĩa lớn trong phong trào Cần Vương dựa vào hệ thống chiến lũy kiên cố tại Thanh Hóa do Đinh Công Tráng chỉ huy.",
+            "nam_bat_dau": 1886,
+            "nam_ket_thuc": 1887
+        },
+        {
+            "tieu_de": "Khởi nghĩa Bãi Sậy",
+            "mo_ta": "Một trong các cuộc khởi nghĩa lớn của phong trào Cần Vương vùng đồng bằng Bắc Bộ, áp dụng xuất sắc chiến thuật du kích sông nước.",
+            "nam_bat_dau": 1883,
+            "nam_ket_thuc": 1892
+        },
+        {
+            "tieu_de": "Khởi nghĩa Hương Khê",
+            "mo_ta": "Cuộc khởi nghĩa tiêu biểu và kéo dài nhất trong phong trào Cần Vương, do Phan Đình Phùng lãnh đạo tại vùng núi Hà Tĩnh.",
+            "nam_bat_dau": 1885,
+            "nam_ket_thuc": 1896
+        },
+        {
+            "tieu_de": "Khởi nghĩa Yên Thế",
+            "mo_ta": "Khởi nghĩa vũ trang của phong trào nông dân Yên Thế do Hoàng Hoa Thám (Đề Thám) lãnh đạo, kiên cường chống Pháp suốt gần 30 năm.",
+            "nam_bat_dau": 1884,
+            "nam_ket_thuc": 1913
+        },
+        {
+            "tieu_de": "Khai thác thuộc địa lần thứ nhất",
+            "mo_ta": "Toàn quyền Paul Doumer đẩy mạnh chương trình khai thác thuộc địa quy mô lớn của Pháp nhằm vơ vét tài nguyên và bóc lột nhân công.",
+            "nam_bat_dau": 1897,
+            "nam_ket_thuc": 1914
+        },
+        {
+            "tieu_de": "Khánh thành cầu Long Biên",
+            "mo_ta": "Cầu Long Biên (lúc đó mang tên cầu Doumer) chính thức thông xe qua sông Hồng, một công trình giao thông trọng điểm thời thuộc địa.",
+            "nam_bat_dau": 1902,
+            "nam_ket_thuc": 1902
+        },
+        {
+            "tieu_de": "Phong trào Đông Du",
+            "mo_ta": "Phong trào đổi mới tư tưởng do Phan Bội Châu khởi xướng, đưa thanh niên Việt Nam sang Nhật Bản học tập kiến thức để về cứu nước.",
+            "nam_bat_dau": 1905,
+            "nam_ket_thuc": 1909
+        },
+        {
+            "tieu_de": "Phong trào Duy Tân",
+            "mo_ta": "Cuộc vận động cải cách văn hóa, xã hội, thúc đẩy thực nghiệp và nâng cao dân trí do Phan Châu Trinh khởi xướng tại Trung Kỳ.",
+            "nam_bat_dau": 1906,
+            "nam_ket_thuc": 1908
+        },
+        {
+            "tieu_de": "Thành lập Đông Kinh Nghĩa Thục",
+            "mo_ta": "Trường học cách mạng do Lương Văn Can, Nguyễn Quyền thành lập tại Hà Nội nhằm truyền bá chữ Quốc ngữ và tư tưởng tiến bộ miễn phí.",
+            "nam_bat_dau": 1907,
+            "nam_ket_thuc": 1907
+        },
+        {
+            "tieu_de": "Phong trào chống thuế ở Trung Kỳ",
+            "mo_ta": "Nông dân Trung Kỳ đồng loạt nổi dậy biểu tình phản đối sưu cao thuế nặng của thực dân Pháp và triều đình phong kiến tay sai.",
+            "nam_bat_dau": 1908,
+            "nam_ket_thuc": 1908
+        },
+        {
+            "tieu_de": "Nguyễn Tất Thành ra đi tìm đường cứu nước",
+            "mo_ta": "Người thanh niên Nguyễn Tất Thành rời bến cảng Nhà Rồng trên con tàu Đô đốc Latouche-Tréville, bắt đầu hành trình tìm đường giải phóng dân tộc.",
+            "nam_bat_dau": 1911,
+            "nam_ket_thuc": 1911
+        },
+        {
+            "tieu_de": "Vụ mưu khởi nghĩa của vua Duy Tân",
+            "mo_ta": "Vua Duy Tân phối hợp với các sĩ phu Việt Nam Quang phục Hội (Thái Phiên, Trần Cao Vân) lập kế hoạch khởi nghĩa chống Pháp nhưng bị lộ.",
+            "nam_bat_dau": 1916,
+            "nam_ket_thuc": 1916
+        },
+        {
+            "tieu_de": "Khởi nghĩa Thái Nguyên",
+            "mo_ta": "Binh lính Việt Nam trong quân đội Pháp do Trịnh Văn Cấn chỉ huy kết hợp với tù chính trị nổi dậy đánh chiếm tỉnh lỵ Thái Nguyên.",
+            "nam_bat_dau": 1917,
+            "nam_ket_thuc": 1917
+        },
+        {
+            "tieu_de": "Khai thác thuộc địa lần thứ hai",
+            "mo_ta": "Pháp thực hiện chương trình khai thác thuộc địa quy mô lớn hơn sau Chiến tranh thế giới thứ nhất nhằm bù đắp thiệt hại chính quốc.",
+            "nam_bat_dau": 1919,
+            "nam_ket_thuc": 1929
+        },
+        {
+            "tieu_de": "Tiếng bom Sa Diện của Phạm Hồng Thái",
+            "mo_ta": "Phạm Hồng Thái mưu sát Toàn quyền Đông Dương Merlin tại Quảng Châu, khơi dậy tinh thần yêu nước của thanh niên Việt Nam.",
+            "nam_bat_dau": 1924,
+            "nam_ket_thuc": 1924
+        },
+        {
+            "tieu_de": "Thành lập Hội Việt Nam Cách mạng Thanh niên",
+            "mo_ta": "Nguyễn Ái Quốc sáng lập tổ chức cách mạng tiền thân tại Quảng Châu nhằm đào tạo cán bộ cốt cán cho phong trào giải phóng dân tộc.",
+            "nam_bat_dau": 1925,
+            "nam_ket_thuc": 1925
+        },
+        {
+            "tieu_de": "Khởi nghĩa Yên Bái",
+            "mo_ta": "Cuộc khởi nghĩa vũ trang do Việt Nam Quốc dân Đảng của Nguyễn Thái Học lãnh đạo nhằm lật đổ chính quyền thuộc địa Pháp nhưng thất bại.",
+            "nam_bat_dau": 1930,
+            "nam_ket_thuc": 1930
+        },
+        {
+            "tieu_de": "Thành lập Đảng Cộng sản Việt Nam",
+            "mo_ta": "Nguyễn Ái Quốc chủ trì hội nghị hợp nhất các tổ chức cộng sản tại Hương Cảng, mở ra bước ngoặt quyết định cho cách mạng Việt Nam.",
+            "nam_bat_dau": 1930,
+            "nam_ket_thuc": 1930
+        },
+        {
+            "tieu_de": "Phong trào Xô viết Nghệ - Tĩnh",
+            "mo_ta": "Làn sóng đấu tranh cách mạng quyết liệt của công nông Nghệ An và Hà Tĩnh, thiết lập các chính quyền sơ khai kiểu Xô viết.",
+            "nam_bat_dau": 1930,
+            "nam_ket_thuc": 1931
+        },
+        {
+            "tieu_de": "Cuộc vận động Dân chủ Đông Dương",
+            "mo_ta": "Phong trào đấu tranh công khai, hợp pháp đòi tự do, dân sinh, dân chủ, cơm áo, hòa bình của nhân dân dưới sự lãnh đạo của Đảng.",
+            "nam_bat_dau": 1936,
+            "nam_ket_thuc": 1939
+        },
+        {
+            "tieu_de": "Khởi nghĩa Bắc Sơn",
+            "mo_ta": "Cuộc khởi nghĩa vũ trang của nhân dân huyện Bắc Sơn (Lạng Sơn) chống thực dân Pháp và phát xít Nhật, thành lập đội du kích Bắc Sơn.",
+            "nam_bat_dau": 1940,
+            "nam_ket_thuc": 1940
+        },
+        {
+            "tieu_de": "Khởi nghĩa Nam Kỳ",
+            "mo_ta": "Cuộc nổi dậy vũ trang quy mô lớn của nhân dân Nam Bộ chống thực dân Pháp, lần đầu tiên xuất hiện lá cờ đỏ sao vàng.",
+            "nam_bat_dau": 1940,
+            "nam_ket_thuc": 1940
+        },
+        {
+            "tieu_de": "Thành lập Mặt trận Việt Minh",
+            "mo_ta": "Nguyễn Ái Quốc triệu tập Hội nghị Trung ương Đảng lần thứ 8 tại Pác Bó, quyết định thành lập Việt Nam Độc lập Đồng minh Hội nhằm đoàn kết toàn dân cứu nước.",
+            "nam_bat_dau": 1941,
+            "nam_ket_thuc": 1941
+        },
+        {
+            "tieu_de": "Thành lập Đội Việt Nam Tuyên truyền Giải phóng quân",
+            "mo_ta": "Tiền thân của Quân đội Nhân dân Việt Nam được thành lập tại Cao Bằng gồm 34 chiến sĩ, do Võ Nguyên Giáp chỉ huy.",
+            "nam_bat_dau": 1944,
+            "nam_ket_thuc": 1944
+        },
+        {
+            "tieu_de": "Nạn đói Ất Dậu",
+            "mo_ta": "Chính sách vơ vét thóc gạo của phát xít Nhật và thực dân Pháp gây ra thảm họa nạn đói nghiêm trọng khiến hơn 2 triệu đồng bào miền Bắc tử vong.",
+            "nam_bat_dau": 1944,
+            "nam_ket_thuc": 1945
+        },
+        {
+            "tieu_de": "Nhật đảo chính Pháp ở Đông Dương",
+            "mo_ta": "Phát xít Nhật độc chiếm Đông Dương, lật đổ chính quyền thực dân Pháp. Đảng Cộng sản ra chỉ thị 'Nhật - Pháp bắn nhau và hành động của chúng ta'.",
+            "nam_bat_dau": 1945,
+            "nam_ket_thuc": 1945
+        },
+        {
+            "tieu_de": "Cách mạng Tháng Tám thành công",
+            "mo_ta": "Nhân dân cả nước nổi dậy giành chính quyền từ tay phát xít Nhật, lật đổ hoàn toàn ách thống nhất thực dân và chế độ phong kiến lỗi thời.",
+            "nam_bat_dau": 1945,
+            "nam_ket_thuc": 1945
+        },
+        {
+            "tieu_de": "Tuyên ngôn Độc lập",
+            "mo_ta": "Ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập tại quảng trường Ba Đình, khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+            "nam_bat_dau": 1945,
+            "nam_ket_thuc": 1945
+        },
+        {
+            "tieu_de": "Cuộc Tổng tuyển cử đầu tiên",
+            "mo_ta": "Công dân Việt Nam từ 18 tuổi trở lên trên cả nước lần đầu tiên thực hiện quyền bầu cử, bầu ra Quốc hội khóa I của nước Việt Nam độc lập.",
+            "nam_bat_dau": 1946,
+            "nam_ket_thuc": 1946
+        },
+        {
+            "tieu_de": "Ký kết Hiệp định Sơ bộ",
+            "mo_ta": "Chính phủ Việt Nam ký kết với đại diện Pháp hiệp định ngày 6/3 nhằm tạo điều kiện hòa hoãn chiến lược, đẩy quân Tưởng Giới Thạch về nước.",
+            "nam_bat_dau": 1946,
+            "nam_ket_thuc": 1946
+        },
+        {
+            "tieu_de": "Toàn quốc kháng chiến chống Pháp",
+            "mo_ta": "Đêm 19/12/1946, Chủ tịch Hồ Chí Minh ra Lời kêu gọi Toàn quốc kháng chiến, mở đầu cuộc chiến chống thực dân Pháp trường kỳ gian khổ.",
+            "nam_bat_dau": 1946,
+            "nam_ket_thuc": 1946
+        },
+        {
+            "tieu_de": "Chiến dịch Việt Bắc Thu - Đông",
+            "mo_ta": "Quân dân ta bẻ gãy cuộc tiến công quy mô lớn của Pháp lên căn cứ địa Việt Bắc, bảo vệ an toàn cơ quan đầu não kháng chiến.",
+            "nam_bat_dau": 1947,
+            "nam_ket_thuc": 1947
+        },
+        {
+            "tieu_de": "Chiến dịch Biên giới Thu - Đông",
+            "mo_ta": "Ta chủ động tiến công tiêu diệt tuyến phòng thủ vững chắc của Pháp ở biên giới Việt - Trung, khai thông đường liên lạc với quốc tế.",
+            "nam_bat_dau": 1950,
+            "nam_ket_thuc": 1950
+        },
+        {
+            "tieu_de": "Đại hội Đảng toàn quốc lần thứ II",
+            "mo_ta": "Đảng Cộng sản Đông Dương đổi tên thành Đảng Lao động Việt Nam, đưa Đảng ra hoạt động công khai nhằm lãnh đạo kháng chiến chống Pháp.",
+            "nam_bat_dau": 1951,
+            "nam_ket_thuc": 1951
+        },
+        {
+            "tieu_de": "Chiến dịch Hòa Bình",
+            "mo_ta": "Quân dân ta tiến công tập kích quân Pháp giải phóng thị xã Hòa Bình, đập tan phòng tuyến cắt ngang sông Đà của De Lattre de Tassigny.",
+            "nam_bat_dau": 1951,
+            "nam_ket_thuc": 1952
+        },
+        {
+            "tieu_de": "Chiến dịch Tây Bắc",
+            "mo_ta": "Quân đội ta tiến công quân Pháp tại khu vực Tây Bắc, giải phóng phần lớn diện tích Sơn La, Lai Châu và Yên Bái.",
+            "nam_bat_dau": 1952,
+            "nam_ket_thuc": 1952
+        },
+        {
+            "tieu_de": "Chiến dịch Thượng Lào",
+            "mo_ta": "Bộ đội tình nguyện Việt Nam phối hợp với quân giải phóng Pathet Lào mở chiến dịch tiến công mở rộng vùng giải phóng Sầm Nưa.",
+            "nam_bat_dau": 1953,
+            "nam_ket_thuc": 1953
+        },
+        {
+            "tieu_de": "Chiến dịch Điện Biên Phủ",
+            "mo_ta": "Sau 56 ngày đêm chiến đấu kiên cường 'khoét núi, ngủ hầm', quân ta đập tan tập đoàn cứ điểm mạnh nhất Đông Dương của Pháp, xoay chuyển cục diện thế giới.",
+            "nam_bat_dau": 1954,
+            "nam_ket_thuc": 1954
+        },
+        {
+            "tieu_de": "Hiệp định Genève về Đông Dương",
+            "mo_ta": "Hiệp định quốc tế công nhận độc lập, chủ quyền, thống nhất lãnh thổ Việt Nam; tạm thời lấy vĩ tuyến 17 làm giới tuyến quân sự.",
+            "nam_bat_dau": 1954,
+            "nam_ket_thuc": 1954
+        },
+        {
+            "tieu_de": "Ba nhất và Đại phong",
+            "mo_ta": "Các phong trào thi đua sản xuất công nghiệp, nông nghiệp sôi nổi ở miền Bắc nhằm xây dựng CNXH làm hậu phương vững chắc cho miền Nam.",
+            "nam_bat_dau": 1958,
+            "nam_ket_thuc": 1960
+        },
+        {
+            "tieu_de": "Bắt đầu xây dựng Tuyến đường Trường Sơn",
+            "mo_ta": "Đoàn 559 được thành lập để mở đường chiến lược dọc dãy Trường Sơn, vận chuyển vũ khí, lương thực và quân lực từ Bắc chi viện cho miền Nam.",
+            "nam_bat_dau": 1959,
+            "nam_ket_thuc": 1959
+        },
+        {
+            "tieu_de": "Phong trào Đồng khởi",
+            "mo_ta": "Phong trào nổi dậy đồng loạt của đồng bào miền Nam bắt đầu từ Bến Tre, phá vỡ từng mảng lớn hệ thống chính quyền kìm kẹp ở nông thôn.",
+            "nam_bat_dau": 1959,
+            "nam_ket_thuc": 1960
+        },
+        {
+            "tieu_de": "Thành lập Mặt trận Dân tộc Giải phóng miền Nam",
+            "mo_ta": "Mặt trận được thành lập để đoàn kết các lực lượng yêu nước ở miền Nam, lãnh đạo nhân dân đấu tranh chống Mỹ cứu nước.",
+            "nam_bat_dau": 1960,
+            "nam_ket_thuc": 1960
+        },
+        {
+            "tieu_de": "Đại hội Đảng toàn quốc lần thứ III",
+            "mo_ta": "Đại hội đề ra hai nhiệm vụ chiến lược đồng thời: Xây dựng CNXH ở miền Bắc và đấu tranh giải phóng dân tộc ở miền Nam.",
+            "nam_bat_dau": 1960,
+            "nam_ket_thuc": 1960
+        },
+        {
+            "tieu_de": "Chiến tranh đặc biệt của Mỹ",
+            "mo_ta": "Mỹ áp dụng chiến lược sử dụng quân đội Sài Gòn làm chủ lực phối hợp cố vấn, trực thăng vận, thiết xa vận nhằm bình định miền Nam.",
+            "nam_bat_dau": 1961,
+            "nam_ket_thuc": 1965
+        },
+        {
+            "tieu_de": "Mở tuyến đường Hồ Chí Minh trên biển",
+            "mo_ta": "Đoàn 759 được thành lập để bí mật dùng tàu không số vận chuyển vũ khí chi viện theo đường biển cho chiến trường Nam Bộ.",
+            "nam_bat_dau": 1961,
+            "nam_ket_thuc": 1961
+        },
+        {
+            "tieu_de": "Chiến thắng Ấp Bắc",
+            "mo_ta": "Quân dân Mỹ Tho đánh bại cuộc càn quét quy mô lớn của quân đội Sài Gòn có cố vấn Mỹ chỉ huy, mở ra cao trào diệt địch lập công.",
+            "nam_bat_dau": 1963,
+            "nam_ket_thuc": 1963
+        },
+        {
+            "tieu_de": "Chiến thắng Bình Giã",
+            "mo_ta": "Quân giải phóng miền Nam chủ động tiến công tiêu diệt nhiều tiểu đoàn chủ lực của quân đội Sài Gòn, làm phá sản chiến lược Chiến tranh đặc biệt.",
+            "nam_bat_dau": 1964,
+            "nam_ket_thuc": 1965
+        },
+        {
+            "tieu_de": "Sự kiện Vịnh Bắc Bộ và Mỹ phá hoại miền Bắc lần 1",
+            "mo_ta": "Mỹ dàn dựng sự kiện quân sự để lấy cớ mở rộng chiến tranh bằng không quân và hải quân phá hoại kinh tế, giao thông của miền Bắc.",
+            "nam_bat_dau": 1964,
+            "nam_ket_thuc": 1968
+        },
+        {
+            "tieu_de": "Phong trào Ba Sẵn sàng và Ba Đảm đang",
+            "mo_ta": "Phong trào thi đua cách mạng rộng lớn của thanh niên, phụ nữ cả nước hăng hái chiến đấu, lao động sản xuất phục vụ kháng chiến.",
+            "nam_bat_dau": 1964,
+            "nam_ket_thuc": 1975
+        },
+        {
+            "tieu_de": "Chiến tranh cục bộ",
+            "mo_ta": "Mỹ trực tiếp đổ quân viễn chinh Mỹ và đồng minh vào miền Nam, tiến hành các chiến dịch 'tìm và diệt' quy mô cực lớn.",
+            "nam_bat_dau": 1965,
+            "nam_ket_thuc": 1968
+        },
+        {
+            "tieu_de": "Chiến thắng Vạn Tường",
+            "mo_ta": "Trận đầu đầu tiên quân giải phóng miền Nam đối đầu trực diện và đánh bại quân viễn chinh Mỹ tại Quảng Ngãi, khẳng định khả năng thắng Mỹ.",
+            "nam_bat_dau": 1965,
+            "nam_ket_thuc": 1965
+        },
+        {
+            "tieu_de": "Chiến dịch phản công Sa Thầy",
+            "mo_ta": "Quân giải phóng Tây Nguyên chủ động dụ địch vào trận địa bố trí sẵn, gây tổn thất nặng nề cho các đơn vị sừng sỏ của Mỹ.",
+            "nam_bat_dau": 1966,
+            "nam_ket_thuc": 1966
+        },
+        {
+            "tieu_de": "Bẻ gãy trận càn Junction City",
+            "mo_ta": "Quân dân căn cứ Bắc Tây Ninh đánh bại cuộc càn quét lớn nhất của Mỹ vào cơ quan đầu não kháng chiến miền Nam.",
+            "nam_bat_dau": 1967,
+            "nam_ket_thuc": 1967
+        },
+        {
+            "tieu_de": "Chiến dịch Khe Sanh",
+            "mo_ta": "Mặt trận Đường 9 Bắc Quảng Trị bao vây tiến công nghi binh, giam chân một lực lượng lớn quân viễn chinh Mỹ tạo đà cho Tết Mậu Thân.",
+            "nam_bat_dau": 1968,
+            "nam_ket_thuc": 1968
+        },
+        {
+            "tieu_de": "Tổng tiến công Tết Mậu Thân",
+            "mo_ta": "Quân giải phóng bất ngờ tiến công đồng loạt vào các cơ quan đầu não tại hơn 100 đô thị miền Nam, làm phá sản chiến lược Chiến tranh cục bộ.",
+            "nam_bat_dau": 1968,
+            "nam_ket_thuc": 1968
+        },
+        {
+            "tieu_de": "Thành lập Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam",
+            "mo_ta": "Chính phủ đại diện hợp pháp cho nhân dân miền Nam được thành lập nhằm đẩy mạnh cuộc đấu tranh trên cả ba mặt trận chính trị, quân sự, ngoại giao.",
+            "nam_bat_dau": 1969,
+            "nam_ket_thuc": 1969
+        },
+        {
+            "tieu_de": "Chiến tranh Việt Nam hóa",
+            "mo_ta": "Mỹ rút dần quân Mỹ, tăng cường trang bị quân đội Sài Gòn nhằm thực hiện âm mưu kéo dài chiến tranh và phá hoại miền Bắc lần 2.",
+            "nam_bat_dau": 1969,
+            "nam_ket_thuc": 1973
+        },
+        {
+            "tieu_de": "Chiến thắng Đường 9 - Nam Lào",
+            "mo_ta": "Quân dân Việt Nam phối hợp quân dân Lào đập tan hành quân Lam Sơn 719 của Mỹ và quân đội Sài Gòn, bảo vệ vững chắc hành lang chiến lược.",
+            "nam_bat_dau": 1971,
+            "nam_ket_thuc": 1971
+        },
+        {
+            "tieu_de": "Cuộc Tổng tiến công chiến lược năm 1972",
+            "mo_ta": "Quân ta mở các chiến dịch tiến công quy mô lớn vào Quảng Trị, Tây Nguyên, Đông Nam Bộ, chọc thủng ba phòng tuyến mạnh nhất của địch.",
+            "nam_bat_dau": 1972,
+            "nam_ket_thuc": 1972
+        },
+        {
+            "tieu_de": "Chiến thắng 81 ngày đêm bảo vệ Thành cổ Quảng Trị",
+            "mo_ta": "Cuộc chiến đấu kiên cường, ác liệt vượt qua bom đạn bảo vệ từng tấc đất Thành cổ của các chiến sĩ giải phóng quân.",
+            "nam_bat_dau": 1972,
+            "nam_ket_thuc": 1972
+        },
+        {
+            "tieu_de": "Chiến dịch Điện Biên Phủ trên không",
+            "mo_ta": "Cuộc đối đầu lịch sử 12 ngày đêm, quân dân miền Bắc bắn hạ hàng loạt siêu pháo đài bay B-52, đập tan cuộc tập kích không kích lớn nhất của Mỹ.",
+            "nam_bat_dau": 1972,
+            "nam_ket_thuc": 1972
+        },
+        {
+            "tieu_de": "Hiệp định Paris về Việt Nam",
+            "mo_ta": "Hiệp định ký kết buộc Mỹ phải rút toàn bộ quân đội về nước, cam kết tôn trọng độc lập, chủ quyền vững chắc của Việt Nam.",
+            "nam_bat_dau": 1973,
+            "nam_ket_thuc": 1973
+        },
+        {
+            "tieu_de": "Chiến thắng Thượng Đức",
+            "mo_ta": "Trận đánh chọc thủng 'cánh cửa thép' bảo vệ Đà Nẵng của quân đội Sài Gòn, chứng minh quân chủ lực ta có thể đánh bại các đơn vị tinh nhuệ nhất của địch.",
+            "nam_bat_dau": 1974,
+            "nam_ket_thuc": 1974
+        },
+        {
+            "tieu_de": "Chiến dịch Đường 14 - Phước Long",
+            "mo_ta": "Đòn trinh sát chiến lược giải phóng hoàn toàn tỉnh Phước Long, khẳng định sự suy yếu rõ rệt của đối phương và khả năng thắng lớn của ta.",
+            "nam_bat_dau": 1974,
+            "nam_ket_thuc": 1975
+        },
+        {
+            "tieu_de": "Chiến dịch Tây Nguyên",
+            "mo_ta": "Đòn tiến công chiến lược mở màn Tổng tiến công năm 1975, giải phóng Buôn Ma Thuột dẫn tới sự sụp đổ dây chuyền phòng thủ của địch.",
+            "nam_bat_dau": 1975,
+            "nam_ket_thuc": 1975
+        },
+        {
+            "tieu_de": "Chiến dịch Huế - Đà Nẵng",
+            "mo_ta": "Tiến công thần tốc giải phóng hoàn toàn các tỉnh duyên hải miền Trung, làm suy sụp tinh thần và chia cắt lực lượng quân đội Sài Gòn.",
+            "nam_bat_dau": 1975,
+            "nam_ket_thuc": 1975
+        },
+        {
+            "tieu_de": "Giải phóng các đảo thuộc quần đảo Trường Sa",
+            "mo_ta": "Quân chủng Hải quân phối hợp với các lực lượng tiến công giải phóng các đảo do quân đội Sài Gòn đóng giữ tại Trường Sa.",
+            "nam_bat_dau": 1975,
+            "nam_ket_thuc": 1975
+        },
+        {
+            "tieu_de": "Chiến dịch Hồ Chí Minh",
+            "mo_ta": "Chiến dịch tiến công giải phóng Sài Gòn - Gia Định. Đúng 11h30 ngày 30/4/1975, cờ cách mạng tung bay trên Dinh Độc Lập, giải phóng hoàn toàn miền Nam.",
+            "nam_bat_dau": 1975,
+            "nam_ket_thuc": 1975
+        },
+        {
+            "tieu_de": "Thống nhất đất nước về mặt Nhà nước",
+            "mo_ta": "Kỳ họp thứ nhất Quốc hội khóa VI quyết định đặt tên nước là Cộng hòa Xã hội Chủ nghĩa Việt Nam, thủ đô là Hà Nội, đổi tên Sài Gòn thành TP. Hồ Chí Minh.",
+            "nam_bat_dau": 1976,
+            "nam_ket_thuc": 1976
+        },
+        {
+            "tieu_de": "Việt Nam gia nhập Liên Hợp Quốc",
+            "mo_ta": "Việt Nam chính thức trở thành thành viên thứ 149 của Tổ chức Liên Hợp Quốc, mở rộng vị thế ngoại giao đa phương.",
+            "nam_bat_dau": 1977,
+            "nam_ket_thuc": 1977
+        },
+        {
+            "tieu_de": "Chiến tranh biên giới Tây Nam",
+            "mo_ta": "Quân đội Việt Nam phản công đánh bại sự xâm lược của tập đoàn Khmer Đỏ, bảo vệ biên cương và cứu nhân dân Campuchia thoát nạn diệt chủng.",
+            "nam_bat_dau": 1978,
+            "nam_ket_thuc": 1979
+        },
+        {
+            "tieu_de": "Chiến tranh biên giới phía Bắc",
+            "mo_ta": "Cuộc chiến đấu tự vệ kiên cường của quân dân các tỉnh biên giới phía Bắc đánh trả cuộc tấn công quy mô lớn bất ngờ từ phía Trung Quốc.",
+            "nam_bat_dau": 1979,
+            "nam_ket_thuc": 1979
+        },
+        {
+            "tieu_de": "Chuyến bay vũ trụ quốc tế Việt - Xô",
+            "mo_ta": "Anh hùng Phạm Tuân trở thành người Việt Nam và người châu Á đầu tiên bay vào vũ trụ cùng nhà du hành Liên Xô Viktor Gorbatko.",
+            "nam_bat_dau": 1980,
+            "nam_ket_thuc": 1980
+        },
+        {
+            "tieu_de": "Trận Vị Xuyên",
+            "mo_ta": "Cuộc chiến đấu phòng ngự ác liệt, bảo vệ từng điểm cao biên giới Vị Xuyên (Hà Tuyên) trước các đợt tiến công lấn chiếm kéo dài.",
+            "nam_bat_dau": 1984,
+            "nam_ket_thuc": 1989
+        },
+        {
+            "tieu_de": "Đại hội VI và Đường lối Đổi mới",
+            "mo_ta": "Đảng Cộng sản Việt Nam đề ra đường lối đổi mới toàn diện, xóa bỏ bao cấp, phát triển kinh tế hàng hóa nhiều thành phần định hướng XHCN.",
+            "nam_bat_dau": 1986,
+            "nam_ket_thuc": 1986
+        },
+        {
+            "tieu_de": "Sự kiện Gạc Ma",
+            "mo_ta": "Các chiến sĩ hải quân Việt Nam dũng cảm chiến đấu bảo vệ chủ quyền tại bãi đá Gạc Ma thuộc quần đảo Trường Sa trước cuộc tấn công vũ trang từ bên ngoài.",
+            "nam_bat_dau": 1988,
+            "nam_ket_thuc": 1988
+        },
+        {
+            "tieu_de": "Bình thường hóa quan hệ Việt - Trung",
+            "mo_ta": "Lãnh đạo cấp cao hai nước gặp gỡ tại Thành Đô, chính thức bình thường hóa quan hệ ngoại giao sau nhiều năm căng thẳng biên giới.",
+            "nam_bat_dau": 1991,
+            "nam_ket_thuc": 1991
+        },
+        {
+            "tieu_de": "Bình thường hóa quan hệ với Mỹ",
+            "mo_ta": "Việt Nam và Mỹ chính thức tuyên bỏ bình thường hóa quan hệ ngoại giao, dỡ bỏ hoàn toàn cấm vận, mở ra chương mới hội nhập sâu rộng.",
+            "nam_bat_dau": 1995,
+            "nam_ket_thuc": 1995
+        },
+        {
+            "tieu_de": "Gia nhập ASEAN",
+            "mo_ta": "Việt Nam chính thức trở thành thành viên thứ 7 của Hiệp hội các quốc gia Đông Nam Á, hội nhập sâu sắc vào khu vực.",
+            "nam_bat_dau": 1995,
+            "nam_ket_thuc": 1995
+        },
+        {
+            "tieu_de": "Phát triển kinh tế mạnh mẽ",
+            "mo_ta": "Giai đoạn 2000–2020, Việt Nam đạt tốc độ tăng trưởng cao, cải thiện đời sống người dân, trở thành nền kinh tế đang phát triển năng động.",
+            "nam_bat_dau": 2000,
+            "nam_ket_thuc": 2020
+        },
+        {
+            "tieu_de": "Gia nhập WTO",
+            "mo_ta": "Việt Nam chính thức trở thành thành viên thứ 150 của Tổ chức Thương mại Thế giới, đánh dấu bước tiến lớn trong hội nhập kinh tế toàn cầu.",
+            "nam_bat_dau": 2007,
+            "nam_ket_thuc": 2007
+        },
+        {
+            "tieu_de": "Khai thác dòng dầu đầu tiên tại mỏ Bạch Hổ",
+            "mo_ta": "Xí nghiệp liên doanh Vietsovpetro chính thức khai thác tấn dầu thương mại đầu tiên từ thềm lục địa, tạo bước đột phá cho ngành dầu khí quốc gia.",
+            "nam_bat_dau": 1986,
+            "nam_ket_thuc": 1986
+        },
+        {
+            "tieu_de": "Đại hội Thể thao Đông Nam Á (SEA Games 22) lần đầu tổ chức tại Việt Nam",
+            "mo_ta": "Sự kiện thể thao đa môn lớn nhất khu vực lần đầu tiên được đăng cai thành công tại Việt Nam, khẳng định khả năng tổ chức các sự kiện quốc tế.",
+            "nam_bat_dau": 2003,
+            "nam_ket_thuc": 2003
+        },
+        {
+            "tieu_de": "Phóng vệ tinh viễn thông đầu tiên VINASAT-1",
+            "mo_ta": "Việt Nam phóng thành công vệ tinh viễn thông đầu tiên lên quỹ đạo địa tĩnh, khẳng định chủ quyền không gian và phát triển hạ tầng công nghệ thông tin.",
+            "nam_bat_dau": 2008,
+            "nam_ket_thuc": 2008
+        },
+        {
+            "tieu_de": "Đại hội Đảng toàn quốc lần thứ XI",
+            "mo_ta": "Đại hội thông qua Chiến lược phát triển kinh tế - xã hội 2011-2020, tập trung vào ba đột phá chiến lược: thể chế, nguồn nhân lực và hạ tầng.",
+            "nam_bat_dau": 2011,
+            "nam_ket_thuc": 2011
+        },
+        {
+            "tieu_de": "Luật Biển Việt Nam được thông qua",
+            "mo_ta": "Quốc hội thông qua Luật Biển Việt Nam, hoàn thiện cơ sở pháp lý vững chắc bảo vệ và quản lý các vùng biển, đảo thuộc chủ quyền quốc gia.",
+            "nam_bat_dau": 2012,
+            "nam_ket_thuc": 2012
+        },
+        {
+            "tieu_de": "Ký kết Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP)",
+            "mo_ta": "Việt Nam cùng 10 quốc gia chính thức ký kết hiệp định thương mại tự do thế hệ mới, mở rộng không gian hợp tác kinh tế toàn cầu.",
+            "nam_bat_dau": 2018,
+            "nam_ket_thuc": 2018
+        },
+        {
+            "tieu_de": "Đảm nhận cương vị Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc lần 2",
+            "mo_ta": "Việt Nam trúng cử với số phiếu kỷ lục, hoàn thành xuất sắc nhiệm kỳ tại cơ quan quyền lực nhất LHQ, nâng cao uy tín ngoại giao.",
+            "nam_bat_dau": 2020,
+            "nam_ket_thuc": 2021
+        },
+        {
+            "tieu_de": "Ký kết Hiệp định Thương mại tự do Việt Nam - EU (EVFTA)",
+            "mo_ta": "Hiệp định thương mại tự do thế hệ mới giữa Việt Nam và Liên minh châu Âu chính thức có hiệu lực, thúc đẩy xuất khẩu mạnh mẽ.",
+            "nam_bat_dau": 2020,
+            "nam_ket_thuc": 2020
+        },
+        {
+            "tieu_de": "Ứng phó đại dịch COVID-19",
+            "mo_ta": "Việt Nam kiểm soát đại dịch bằng các biện pháp y tế và xã hội, hạn chế thiệt hại. Đây là một cuộc chiến chống lại virus SARS-CoV-2 rất cam go, nhưng đội ngũ bác sĩ, công an cùng toàn dân đã chung tay đẩy lùi được đại dịch.",
+            "nam_bat_dau": 2020,
+            "nam_ket_thuc": 2022
+        },
+        {
+            "tieu_de": "Nâng cấp quan hệ đối tác chiến lược toàn diện với nhiều cường quốc",
+            "mo_ta": "Việt Nam liên tiếp nâng cấp quan hệ ngoại giao lên tầm cao nhất - Đối tác Chiến lược Toàn diện với các quốc gia lớn, khẳng định vị thế trường quốc tế.",
+            "nam_bat_dau": 2022,
+            "nam_ket_thuc": 2024
+        },
+        {
+            "tieu_de": "Giai đoạn hội nhập và phát triển số",
+            "mo_ta": "Việt Nam tiếp tục hội nhập quốc tế sâu rộng, tập trung phát triển kinh tế số, xã hội số và nâng cao vị thế ngoại giao trên trường quốc tế.",
+            "nam_bat_dau": 2022,
+            "nam_ket_thuc": 2026
+        }
+    ]
+}
