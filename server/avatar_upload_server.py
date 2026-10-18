@@ -27,7 +27,7 @@ app = Flask(__name__)
 
 
 def find_user_doc_by_username(username: str):
-    docs = db.collection("users").where("username", "==", username).limit(1).stream()
+    docs = db.collection("users").where("username", "==", username).limit(1).stream();
     for doc in docs:
         return doc.reference, doc.to_dict() or {}
     return None, None
